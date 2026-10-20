@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="VirusLab Oliver.vcxproj" Id="c4b4147c-a3f9-4754-b4a9-d231d12ee602" />
+</Solution>
